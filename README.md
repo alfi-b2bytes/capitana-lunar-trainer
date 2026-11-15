@@ -48,7 +48,7 @@ Additional NASA references, verified 15 November 2026:
 
 ## AI assistance and attribution
 
-Concept and direction: Diego and Lya. AI assisted implementation, interface code, the illustrative code-generated scene, explanatory text, source verification, and testing. AI also proposed specific rule options that the team reviewed and approved. The original DONKI event is NASA source data, not AI-generated data. Generated illustration is visibly labeled in the interface. AI assistance is also declared in HTML metadata. This statement does not certify human authorship of material of uncertain origin or claim that adoption makes an AI-origin idea human-origin.
+Concept and direction: Diego and Lya. AI assisted implementation, interface code, the illustrative code-generated scene, explanatory text, source verification, and testing. AI also proposed specific rule options and later gameplay improvements. Diego approved the initial rule proposals; approval does not change their AI origin. The original DONKI event is NASA source data, not AI-generated data. Generated illustration is visibly labeled in the interface. AI assistance is also declared in HTML metadata. This statement does not certify human authorship of material of uncertain origin or claim that adoption makes an AI-origin idea human-origin.
 
 No recognizable minors, NASA logos, NASA endorsement, commercial calls to action, medical effects, death scenes, or unverified numerical consumption rates are included.
 
@@ -66,3 +66,12 @@ Development and presentation tools used: Python; Playwright for functional brows
 ## Status and limits
 
 This is not a submitted entry or a certificate of eligibility. The team must review the official submission guide, participant terms, originality statement and the rule that SI must not originate the solution idea. AI did propose specific rules and improvements here; disclosure does not erase that origin. No student learning outcomes have been measured. Test results describe software behavior, not educational effectiveness.
+
+
+## Bilingual and interactive update, 15 November 2026
+
+English remains the default contest route; Spanish is available through the visible language selector (`es.html`). Changing language restarts the mission. Both include a visibly labeled AI-generated fictional adult Capitana Planeta guide and twelve named fictional crew candidates. No real person or minor is represented. The guide, names, translations and interface treatment were proposed/produced with AI under Diego's requested direction, not claimed as independently human-originated.
+
+The solar workshop lets players drag panels, or select a panel and place it with touch/keyboard controls, between an illuminated ridge and shadow. The base lights up when both panels are placed in the illuminated zone. This is an explicit fictional completion rule, not a NASA power/consumption calculation, real illumination model, or a claim that two panels can power a real lunar base. NASA's On the Rim reference supports the distinction between illuminated terrain, shadow and the need to plan for changing illumination: https://moon.nasa.gov/resources/162/on-the-rim/ . Reserve/storage remains part of the subsequent energy planning decision.
+
+Provenance: the assistant proposed moving panels as an interaction example; Diego selected and approved it at 20:39 on 15 November 2026. AI implemented the workshop and its qualitative two-panel completion condition. Human adoption does not change the AI origin or settle the contest's ideation restriction. No eligibility certification is made.
