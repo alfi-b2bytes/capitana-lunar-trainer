@@ -1,0 +1,63 @@
+{
+  "title": "Capitana: First Lunar Base",
+  "language": "en",
+  "dataMode": "Embedded historical record, verified 2026-11-15. Not live telemetry.",
+  "solarEvent": {
+    "activityID": "2024-05-10T13:35:00-SEP-001",
+    "eventTime": "2024-05-10T13:35Z",
+    "instrument": "GOES-P: SEISS >10 MeV",
+    "catalog": "M2M_CATALOG",
+    "version": 1,
+    "source": "NASA CCMC DONKI",
+    "url": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/30677/1",
+    "interpretation": "A real solar energetic particle event recorded by DONKI. The mission replays this date as a training prompt. The record does not measure a lunar astronaut's dose and does not predict exposure at the lunar base."
+  },
+  "scienceCards": [
+    {
+      "area": "Energy",
+      "fact": "No location on the Moon stays continuously illuminated. Three points on the rim of Shackleton crater remain collectively sunlit for more than 90% of the year.",
+      "source": "NASA, On the Rim!",
+      "url": "https://moon.nasa.gov/resources/162/on-the-rim/",
+      "boundary": "This is not a promise of continuous power at one base location. Game resource changes are educational simplifications."
+    },
+    {
+      "area": "Air",
+      "fact": "Enclosed spacecraft rely on carbon dioxide removal equipment. Removing CO2 is a different task from supplying oxygen.",
+      "source": "NASA OCHMO-TB-004 Carbon Dioxide",
+      "url": "https://www.nasa.gov/ochmo-tb-004-carbon-dioxide-2/",
+      "boundary": "No medical prediction, real exposure threshold, oxygen-consumption rate or BVAD value is implemented."
+    },
+    {
+      "area": "Food and Water",
+      "fact": "NASA's Veggie garden on the International Space Station uses plant pillows to help balance water, nutrients and air around roots, and LEDs for light.",
+      "source": "NASA, Growing Plants in Space",
+      "url": "https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/",
+      "boundary": "Veggie is an ISS experiment, not an operating lunar farm. No crop harvest time or consumption figure is presented as NASA data."
+    },
+    {
+      "area": "Radiation",
+      "fact": "NASA monitors space radiation and uses dosimeters to measure exposure.",
+      "source": "NASA, Space Radiation",
+      "url": "https://www.nasa.gov/directorates/esdmd/hhp/space-radiation/",
+      "boundary": "No electromagnetic shield, guaranteed protection, radiation dose conversion or invented risk percentage."
+    },
+    {
+      "area": "Communication",
+      "fact": "NASA's lunar relay plans aim to support communication where Earth is not directly visible, including the lunar South Pole. LunaNet includes delay/disruption-tolerant networking, which can store data until a link is available.",
+      "source": "NASA, LunaNet",
+      "url": "https://www.nasa.gov/communicating-with-missions/lunanet/",
+      "boundary": "The game's relay is a training scenario, not a claim that a particular satellite or Gateway is in service. No 45-minute Moon delay."
+    }
+  ],
+  "disclosure": "Educational prototype. Concept and direction: Diego and Lya. AI-assisted implementation, explanatory text, and rule proposals reviewed and approved by the team. The original DONKI event is not AI-generated. All fictional resource levels, outcomes and scene transitions are educational game rules, not NASA measurements, medical advice or operational guidance. No NASA endorsement.",
+  "restrictions": [
+    "No deaths or mortal threats",
+    "No identifiable minors",
+    "No NASA logos, flags or mission identifiers in generated artwork",
+    "No user names, accounts, voice recording or personal-data collection",
+    "No paid APIs",
+    "No live DONKI request needed",
+    "No unverified BVAD values",
+    "Do not invent decisions still pending Diego and Lya"
+  ]
+}
