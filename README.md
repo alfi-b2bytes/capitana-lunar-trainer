@@ -1,0 +1,45 @@
+# Capitana: First Lunar Base
+
+An educational lunar mission trainer. A playable five-turn prototype for the Junior Astronaut Mission Trainer challenge. It is an educational game, not a validated engineering simulator or a submitted competition entry.
+
+## Run
+
+Open `index.html` in a modern browser. It is a self-contained, static application with no build step, server, API key, account, payment, telemetry, or personal-data collection. The embedded JSON preserves the source record and qualifications for inspection.
+
+## Playable prototype
+
+- Mission introduction and a no-punishment training promise.
+- Abstract avatar selection without real names or photos.
+- Five-system science explorer: energy, air, food and water, radiation, and communication.
+- Optional comfortable pause with no medical promise or scoring effect.
+- Source drawer with a real, dated NASA CCMC DONKI solar energetic particle record.
+
+The mission includes four crew roles with three qualitative working-style profiles each, a main-thruster fault with intact life support and return module, a repair/support introduction, five system decisions with checkpoints, and a final learning check. No hidden numerical bonuses. A repair never ends the game.
+
+The team approved the four implementation rules on 15 November 2026: main-thruster fault with intact support/return module; five turns; a working base plus learning explanation to win; qualitative crew strengths without invented percentages.
+
+## NASA source data
+
+Historical event: `2024-05-10T13:35:00-SEP-001`, recorded at `2024-05-10T13:35Z`, GOES-P: SEISS >10 MeV, M2M_CATALOG version 1.
+
+Original record: https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/30677/1
+
+This record informs a historical training scenario. It is not live telemetry, lunar dosimetry, an astronaut exposure estimate, or a forecast. All fictional resource changes and decision outcomes must be labeled educational simplifications. No unread BVAD values are used.
+
+Additional NASA references, verified 15 November 2026:
+
+- Energy and illumination: https://moon.nasa.gov/resources/162/on-the-rim/
+- Carbon dioxide removal: https://www.nasa.gov/ochmo-tb-004-carbon-dioxide-2/
+- ISS plant research, not lunar-farm data: https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/
+- Radiation monitoring: https://www.nasa.gov/directorates/esdmd/hhp/space-radiation/
+- Planned lunar networking: https://www.nasa.gov/communicating-with-missions/lunanet/
+
+## AI assistance and attribution
+
+Concept and direction: Diego and Lya. AI assisted implementation, interface code, the illustrative code-generated scene, explanatory text, source verification, and testing. AI also proposed specific rule options that the team reviewed and approved. The original DONKI event is NASA source data, not AI-generated data. Generated illustration is visibly labeled in the interface. AI assistance is also declared in HTML metadata. This statement does not certify human authorship of material of uncertain origin or claim that adoption makes an AI-origin idea human-origin.
+
+No recognizable minors, NASA logos, NASA endorsement, commercial calls to action, medical effects, death scenes, or unverified numerical consumption rates are included.
+
+## License
+
+Original application code is licensed under Apache License 2.0. Source references retain their own terms. No rights or NASA endorsement are claimed over cited source material.
